@@ -48,7 +48,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: pink; /*#e7ad52;*/
+  color: white; /*#e7ad52;*/
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -57,7 +57,7 @@ body {
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #f3d7ac;
+  color: pink;
   text-shadow: none;
   border: none; }
 
@@ -81,7 +81,7 @@ body {
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
-  border-color: pink;
+  border-color: white;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /*********************************************
